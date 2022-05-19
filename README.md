@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cstews
-- 🌱 I’m currently a Computer Science student at Auburn
+- 🌱 I’m currently a Computer Engineering student at Auburn
 
 
 <!---
